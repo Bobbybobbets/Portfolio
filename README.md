@@ -8,8 +8,10 @@ repository.
 
 Past work :
 
-https://github.com/Bobbybobbets/Pictin\n
+https://github.com/Bobbybobbets/Pictin
+
 Description: X-ray photos analysis tool in Javascript.
+
 Context: Work
 
 Experience gained:
