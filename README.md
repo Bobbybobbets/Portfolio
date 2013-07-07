@@ -8,11 +8,9 @@ repository.
 
 Past work :
 
-https://github.com/Bobbybobbets/Pictin
-
-Description: X-ray photos analysis tool in Javascript.
-
-Context: Work
+https://github.com/Bobbybobbets/Pictin <br/>
+Description: X-ray photos analysis tool in Javascript. <br/>
+Context: Work 
 
 Experience gained:
 
@@ -21,7 +19,7 @@ Experience gained:
 - Javascript
 
 
-https://github.com/Bobbybobbets/Cheo-visits
+https://github.com/Bobbybobbets/Cheo-visits <br/>
 Description: 
 
 
