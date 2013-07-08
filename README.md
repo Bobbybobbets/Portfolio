@@ -20,7 +20,13 @@ Experience gained:
 
 
 https://github.com/Bobbybobbets/Cheo-visits <br/>
-Description: 
+Description: C# application used to find visit-combinations collisions between hypothetical patients of an hospital. 
+Context: School
 
+Experience gained:
+
+- Performance based requirements; optimization of an algorithm used to generate visit-combinations permutations
+- Design patterns : Model-View-Controller, Observer, Facade
+- Unit testing
 
 
