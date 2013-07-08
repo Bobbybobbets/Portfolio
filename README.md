@@ -78,8 +78,8 @@ Experience gained:
 
 ==
 
-https://github.com/Bobbybobbets/CalendarCrud
-Description: Small javascript/nodejs calendar application.
+https://github.com/Bobbybobbets/CalendarCrud <br/>
+Description: Small javascript/nodejs calendar application. <br/>
 Context: School - Individual
 
 Experience gained:
