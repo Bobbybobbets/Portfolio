@@ -1,7 +1,7 @@
 Portfolio
 =========
 
-This document's purpose is to give you a general idea of what I have learned over the years. I will try to be as clear 
+This document's purpose is to give you a general idea of what I have learned over the last few years. I will try to be as clear 
 and concise as possible. For more specific information about each project, please refer to their respective github 
 repository.
 
