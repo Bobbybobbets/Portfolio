@@ -17,6 +17,7 @@ Experience gained:
 - Interface and application state management
 - Javascript
 
+==
 
 https://github.com/Bobbybobbets/Cheo-visits <br/>
 Description: C# application used to find visit-combinations collisions between hypothetical patients of an hospital. <br/>
@@ -30,6 +31,7 @@ Experience gained:
 - Unit testing
 - C#; .NET
 
+==
 
 https://github.com/Bobbybobbets/StoreSimulation <br/>
 Description: Grocery store simulation. This project was used as a way to learn about different design patterns.<br/>
@@ -40,6 +42,8 @@ Experience gained:
 - Model-View-Controller architecture
 - Design patterns : Strategy, Facade, Observer, Singleton, Bridge
 - C#; .NET
+
+==
 
 https://github.com/Bobbybobbets/JadeMonkey <br/>
 Description: 3D first person shooter <br/>
@@ -56,6 +60,7 @@ Experience gained:
 - 3D programming
 - Design patterns: Singleton, Factory, Strategy, Bridge
 
+==
 
 https://github.com/Bobbybobbets/SSB-clone <br/>
 Description: Clone of the popular game Super Smash Brothers. <br/>
@@ -71,6 +76,7 @@ Experience gained:
 - C#; .NET; XNA
 - Design patterns: Singleton, Factory, Strategy, Bridge
 
+==
 
 https://github.com/Bobbybobbets/CalendarCrud
 Description: Small javascript/nodejs calendar application.
