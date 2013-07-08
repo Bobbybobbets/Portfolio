@@ -5,7 +5,7 @@ This document's purpose is to give you a general idea of what I have learned ove
 and concise as possible. For more specific information about each project, please refer to their respective github 
 repository.
 
-=====
+==
 
 https://github.com/Bobbybobbets/Pictin <br/>
 Description: X-ray photos analysis tool in Javascript. <br/>
