@@ -91,7 +91,7 @@ Experience gained:
 - Design patterns: Facade, Dependency injection
 - Command line tools: Yeoman, Grunt, Bower, NPM
 
-
+==
 
 Coming in the next few days :
 - Involvement details for each team project
