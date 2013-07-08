@@ -25,30 +25,66 @@ Context: School - individual
 
 Experience gained:
 
+- Model-View-Controller architecture
 - Performance based requirements; optimization of an algorithm used to generate visit-combinations permutations
-- Design patterns : Model-View-Controller, Observer, Facade, Bridge
+- Design patterns : Observer, Facade, Bridge
 - Unit testing
 - C#; .NET
 
 
 https://github.com/Bobbybobbets/StoreSimulation <br/>
 Description: Grocery store simulation. This project was used as a way to learn about different design patterns.<br/>
-Context: School - Team*
+Context: School - Team
 
 Experience gained:
 
-- Design patterns : Model-View-Controller, Strategy, Facade, Observer, Singleton, Bridge
+- Model-View-Controller architecture
+- Design patterns : Strategy, Facade, Observer, Singleton, Bridge
 - C#; .NET
+
+https://github.com/Bobbybobbets/JadeMonkey <br/>
+Description: 3D first person shooter <br/>
+Context: School - Team
+
+Experience gained:
+
+- System-Entity-Component architecture
+- Artificial intelligence
+- Pathfinding in 3D
+- Linear algebra
+- C++
+- Direct3D
+- 3D programming
+- Design patterns: Singleton, Factory, Strategy, Bridge
 
 
 https://github.com/Bobbybobbets/SSB-clone <br/>
 Description: Clone of the popular game Super Smash Brothers. <br/>
-Context: School - Team*
+Context: School - Team
 
 Experience gained:
 
-- 
+- System-Entity-Component architecture
+- Artificial intelligence
+- Pathfinding in 2D
+- Collision detection in 2D
+- Linear algebra
+- C#; .NET; XNA
+- Design patterns: Singleton, Factory, Strategy, Bridge
 
 
-* : Details about my involvement in team projects are available in their respective repository's README.
+https://github.com/Bobbybobbets/CalendarCrud
+Description: Small javascript/nodejs calendar application.
+Context: School - Individual
+
+Experience gained:
+
+- Model-View-Controller architecture
+- REST interfaces
+- NodeJS; ExpressJS; AngularJS
+- Object Relational Mapping (ORM)
+- Design patterns: Facade, Dependency injection
+- Command line tools: Yeoman, Grunt, Bower, NPM
+
+
 
