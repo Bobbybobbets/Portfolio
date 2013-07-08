@@ -93,3 +93,7 @@ Experience gained:
 
 
 
+Coming in the next few days :
+- Involvement details for each team project
+- Per project analysis of the interesting parts, including code snippets
+- Information on my current personal project
