@@ -96,4 +96,5 @@ Experience gained:
 Coming soon :
 - Involvement details for each team project
 - Per project analysis of the interesting parts, including code snippets
+- Demos
 
