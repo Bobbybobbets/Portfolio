@@ -7,6 +7,10 @@ repository.
 
 ==
 
+Pictin
+
+![Pictin](images/pictin_1.png)
+
 https://github.com/Bobbybobbets/Pictin <br/>
 Description: X-ray image analysis tool in Javascript. <br/>
 Context: Work
