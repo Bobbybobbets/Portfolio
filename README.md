@@ -2,7 +2,7 @@ Portfolio
 =========
 
 Pictin
-==
+=
 
 ![Pictin](images/pictin_1.png)
 
