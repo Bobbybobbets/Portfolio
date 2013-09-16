@@ -1,6 +1,3 @@
-Portfolio
-=========
-
 Pictin
 --
 
