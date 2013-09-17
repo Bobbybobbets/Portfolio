@@ -5,10 +5,12 @@ Pictin
 
 https://github.com/Bobbybobbets/Pictin <br/>
 
+Context: Work
 Pictin is an application used to generate many kinds of measurements pertaining to the analysis of human body X-rays. It
 offers functionalities such as rotation, scale, zoom, measurement of angles and distances, as well as the drawing of
 primitive shapes. Furthermore, it has an undo/redo function for instances where an error was made. Finally, the application 
 contains several step-by-step processes designed to guide the user in the measurement of values specific to certain parts of the body.
+
 
 Experience gained:
 
@@ -16,11 +18,17 @@ Experience gained:
 - Interface and application state management
 - Javascript
 
-==
+
+Hospital-visits
+--
 
 https://github.com/Bobbybobbets/Cheo-visits <br/>
-Description: C# application used to find visit-combinations collisions between hypothetical patients of an hospital. <br/>
-Context: School - individual
+
+Context: School
+This application is used to calculate the number of collisions between patient visits in an hospital. The constaints
+for a collision are arbitrarily defined by the user. The focus of the project was mainly put on the performance and 
+scaling of the algorithm, which forced me to consider its memory footprint as well as its computational efficiency.<br/>
+
 
 Experience gained:
 
