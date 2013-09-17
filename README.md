@@ -4,8 +4,11 @@ Pictin
 ![Pictin](images/pictin_1.png)
 
 https://github.com/Bobbybobbets/Pictin <br/>
-Description: X-ray image analysis tool in Javascript. <br/>
-Context: Work
+
+Pictin is an application used to generate many kinds of measurements pertaining to the analysis of human body X-rays. It
+offers functionalities such as rotation, scale, zoom, measurement of angles and distances, as well as the drawing of
+primitive shapes. Furthermore, it has an undo/redo function for instances where an error was made. Finally, the application 
+contains several step-by-step processes designed to guide the user in the measurement of values specific to certain parts of the body.
 
 Experience gained:
 
