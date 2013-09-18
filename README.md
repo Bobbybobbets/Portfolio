@@ -94,27 +94,48 @@ Experience gained:
 - Design patterns: Singleton, Factory, Strategy, Bridge
 
 https://github.com/Bobbybobbets/JadeMonkey <br/>
-==
 
-https://github.com/Bobbybobbets/SSB-clone <br/>
-Description: Clone of the popular game Super Smash Brothers. <br/>
-Context: School - Team
+
+SSB-Clone
+--
+
+![SSBClone](images/ssb_clone.png)
+
+Context: School<br/>
+Team size: 2<br/>
+Clone of the popular game Super Smash Brothers. <br/>
+
+My contribution:
+
+- Code architecture and design
+- Computer artificial intelligence, pathfinding
+- 2D collision detection and collision response
+- Character action system
+- Character movement
 
 Experience gained:
 
-- System-Entity-Component architecture
-- Artificial intelligence
+- System-Entity-Component architecture(continued)
+- Artificial intelligence(continued)
 - Pathfinding in 2D
 - Collision detection in 2D
 - Linear algebra
 - C#; .NET; XNA
 - Design patterns: Singleton, Factory, Strategy, Bridge
 
-==
+https://github.com/Bobbybobbets/SSB-clone <br/>
 
-https://github.com/Bobbybobbets/CalendarCrud <br/>
-Description: Small javascript/nodejs calendar application. <br/>
-Context: School - Individual
+
+CalendarCrud
+--
+
+Context: Personal<br/>
+Team size: 1<br/>
+
+
+Small javascript/nodejs calendar application. The user can add, remove and modify events from the calendar. This project's main goal was to get acquainted with the latest web technologies
+as well as the latest workflow enhancing techniques.<br/>
+
 
 Experience gained:
 
@@ -125,3 +146,4 @@ Experience gained:
 - Design patterns: Facade, Dependency injection
 - Command line tools: Yeoman, Grunt, Bower, NPM
 
+https://github.com/Bobbybobbets/CalendarCrud <br/>
