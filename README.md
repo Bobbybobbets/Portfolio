@@ -10,7 +10,7 @@ offers functionalities such as rotation, scale, zoom, measurement of angles and 
 primitive shapes. Furthermore, it has an undo/redo function for instances where an error was made. Finally, the application 
 contains several step-by-step processes designed to guide the user in the measurement of values specific to certain parts of the body.
 
-My contributions:
+My contribution:
 
 - All tools except the modification of contrast and brightness
 - Undo/Redo
@@ -66,13 +66,22 @@ Experience gained:
 Jade Monkey
 --
 
+![JadeMonkey](images/jade_monkey.png)
+
 Context: School<br/>
 Team size: 2
 
 https://github.com/Bobbybobbets/JadeMonkey <br/>
 Jade Monkey is a 3D first-person shooter with the goal of finding missing pieces of a key in
-order to open a door. While doing this, you must also fight monsters by shooting fireballs at them. Monsters can have
-different behaviours and skills, adding some diversity to the gameplay.<br/>
+order to open a door. While doing this, you must also fight monsters by shooting fireballs at them as well as dodging their projectiles. There are currently 3 classes of monsters :
+melee, range, and healer. They each have different skills, from fireballs to healing orbs, and react in different ways depending on their current state
+relative to other entities. For example, healers will seek allies with the least health and monsters will run away from the player when close to death.<br/>
+
+My contribution:
+
+- Code architecture and design
+- Lighting, textures, health bars
+- Monster behaviour(AI), pathfinding
 
 Experience gained:
 
