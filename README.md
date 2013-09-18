@@ -51,6 +51,7 @@ StoreSimulation
 https://github.com/Bobbybobbets/StoreSimulation <br/>
 
 Context: School<br/>
+Team size: 1<br/>
 This is a grocery store simulation that models the flow of customers according to different parameters, such as the number
 of items bought and the time of arrival. The project's focus was on design patterns as well as flexibility through proper
 abstraction. Furthermore, traceability between requirements, design, and code was strongly enforced.<br/>
@@ -62,11 +63,16 @@ Experience gained:
 - Design patterns : Strategy, Facade, Observer, Singleton, Bridge
 - C#; .NET
 
-==
+Jade Monkey
+--
 
-Context: School
+Context: School<br/>
+Team size: 2
+
 https://github.com/Bobbybobbets/JadeMonkey <br/>
-Description: 3D first person shooter <br/>
+Jade Monkey is a 3D first-person shooter with the goal of finding missing pieces of a key in
+order to open a door. While doing this, you must also fight monsters by shooting fireballs at them. Monsters can have
+different behaviours and skills, adding some diversity to the gameplay.<br/>
 
 Experience gained:
 
