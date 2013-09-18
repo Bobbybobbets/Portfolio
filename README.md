@@ -129,7 +129,9 @@ https://github.com/Bobbybobbets/SSB-clone <br/>
 CalendarCrud
 --
 
-Context: Personal<br/>
+![CalendarCrud](images/CalendarCrud.png)
+
+Context: School<br/>
 Team size: 1<br/>
 
 
