@@ -28,8 +28,6 @@ employer.
 Hospital-visits
 --
 
-https://github.com/Bobbybobbets/Cheo-visits <br/>
-
 Context: School<br/>
 Team size: 1<br/>
 This application is used to calculate the number of collisions between patient visits in an hospital. The constaints
@@ -45,10 +43,10 @@ Experience gained:
 - Unit testing
 - C#; .NET
 
+https://github.com/Bobbybobbets/Cheo-visits <br/>
+
 StoreSimulation
 --
-
-https://github.com/Bobbybobbets/StoreSimulation <br/>
 
 Context: School<br/>
 Team size: 1<br/>
@@ -63,6 +61,8 @@ Experience gained:
 - Design patterns : Strategy, Facade, Observer, Singleton, Bridge
 - C#; .NET
 
+https://github.com/Bobbybobbets/StoreSimulation <br/>
+
 Jade Monkey
 --
 
@@ -71,7 +71,6 @@ Jade Monkey
 Context: School<br/>
 Team size: 2
 
-https://github.com/Bobbybobbets/JadeMonkey <br/>
 Jade Monkey is a 3D first-person shooter with the goal of finding missing pieces of a key in
 order to open a door. While doing this, you must also fight monsters by shooting fireballs at them as well as dodging their projectiles. There are currently 3 classes of monsters :
 melee, range, and healer. They each have different skills, from fireballs to healing orbs, and react in different ways depending on their current state
@@ -94,6 +93,7 @@ Experience gained:
 - 3D programming
 - Design patterns: Singleton, Factory, Strategy, Bridge
 
+https://github.com/Bobbybobbets/JadeMonkey <br/>
 ==
 
 https://github.com/Bobbybobbets/SSB-clone <br/>
