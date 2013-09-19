@@ -74,7 +74,7 @@ Jade Monkey
 Context: School<br/>
 Team size: 2
 
-Jade Monkey is a 3D first-person shooter with the goal of finding missing pieces of a key in
+Jade Monkey is a 3D first-person shooter game in which the goal is to find the missing pieces of a key in
 order to open a door. While doing this, you must also fight monsters by shooting fireballs at them as well as dodging their projectiles. There are currently 3 classes of monsters :
 melee, range, and healer. They each have different skills, from fireballs to healing orbs, and react in different ways depending on their current state
 relative to other entities. For example, healers will seek allies with the least health and monsters will run away from the player when close to death.<br/>
@@ -139,7 +139,7 @@ Context: School<br/>
 Team size: 1<br/>
 
 
-Small javascript/nodejs calendar application. The user can add, remove and modify events from the calendar. This project's main goal was to get acquainted with the latest web technologies
+Small javascript/nodejs calendar application. The user can add, remove and modify events from the calendar. This project's main goal was to get me acquainted with the latest web technologies
 as well as the latest workflow enhancing techniques.<br/>
 
 
