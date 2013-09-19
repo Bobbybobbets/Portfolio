@@ -13,7 +13,7 @@ contains several step-by-step processes designed to guide the user in the measur
 
 My contribution:
 
-- All tools except the modification of contrast and brightness
+- All tools except the contrast and brightness functions
 - Undo/Redo
 - All step-by-step processes
 
@@ -32,7 +32,7 @@ Hospital-visits
 Context: School<br/>
 Team size: 1<br/>
 
-This application is used to calculate the number of collisions between patient visits in an hospital. The constaints
+This application is used to calculate the number of collisions between patient visits in an hospital. The constraints
 for a collision are arbitrarily defined by the user. The focus of the project was mainly put on the performance and 
 scaling of the algorithm, which forced me to consider its memory footprint as well as its computational efficiency.<br/>
 
