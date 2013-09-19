@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8803bd61-3195-47bc-a3ca-c4079a6d60ba" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -72,7 +73,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="131" column="14" selection-start="3960" selection-end="3960" vertical-scroll-proportion="0.6669903">
+            <state line="7" column="0" selection-start="80" selection-end="80" vertical-scroll-proportion="0.14383562">
               <folding />
             </state>
           </provider>
@@ -104,7 +105,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1876" />
-    <option name="height" value="1178" />
+    <option name="height" value="878" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -322,7 +323,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1876" height="1178" extended-state="6" />
+    <frame x="0" y="22" width="1876" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -419,7 +420,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="131" column="14" selection-start="3960" selection-end="3960" vertical-scroll-proportion="0.6669903">
+        <state line="7" column="0" selection-start="80" selection-end="80" vertical-scroll-proportion="0.14383562">
           <folding />
         </state>
       </provider>
